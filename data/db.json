@@ -1,5 +1,5 @@
-{
-    "products":[
+
+    [
         {"id":1,
          "title":"Nike Dunk High",
         "gender":"womens",
@@ -57,4 +57,3 @@
         "img_url":"https://images.footlocker.com/is/image/EBFL2/V2185100_a1?wid=520&hei=520&fmt=png-alpha",
         "price":300}
     ]
-}
